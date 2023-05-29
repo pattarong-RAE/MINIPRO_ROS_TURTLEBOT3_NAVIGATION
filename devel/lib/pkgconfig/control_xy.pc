@@ -1,0 +1,8 @@
+prefix=/home/pattarong/Desktop/catkin_ws/devel
+
+Name: control_xy
+Description: Description of control_xy
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
